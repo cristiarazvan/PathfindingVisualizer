@@ -26,9 +26,9 @@ To run the Pathfinding Algorithm Visualizer locally, follow these steps:
     ```bash
     cd PathfindingVisualizer
     ```
-3. Activate the virtual environment
+3. Make sure you have pygame installed.
     ```bash
-    source myenv/bin/activate
+    pip install pygame
     ```
 4. Run the main script:
     ```bash
